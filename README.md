@@ -1,5 +1,3 @@
-## Session 3: Watering the Roots - Solidity Smart Contracts
-
 In this session, we learn Solidity by building a blockchain game called `LiskGarden`.
 
 ### Hardhat Setup
